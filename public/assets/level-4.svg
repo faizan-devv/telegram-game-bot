@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 15" width="13" height="15">
+	<title>New Project</title>
+	<defs>
+		<image  width="9" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAANCAMAAABM3rQ0AAAAAXNSR0IB2cksfwAAAP9QTFRFAAAAn49Qn49Ql4B4l2hIf2xXqohdq4JM98+fsW8spohpnW9FdkcnimxSqY5vnnlSo1wfm2xDjVwxj1UrUS4Si2xQbk40h101zalz0qNjoGQnqXVEeU0sc0YhnnZMWTwnkWk9za185L1/sHo3x45DYDUWWjQceFIzk101qHVCrnM2p3A7Vy8QYDEUYjYahUMbkFYqo2AkqXI2XCkQbDsYm10ppWcwn1YZeFA4flg8qXlKwZVh99eXEBAQSjgsaVA6dU8uoXxPqIZRcEAgEBAVKCIiOyYTWjweh2U2dk8wXkIpEREVHxsdEA8PIhwVRDMhQjUnMiEZCgoKCAgICQkJlWQUiwAAAFV0Uk5TAAQCFQ4oaiwOClypX+r/62enRtN76v///+1wjVJcw////8pcOIXR////yIQXaNr05moZEnvrfRIHm/6ZBwdx+P/4bgQjyf///84nG4WztbSGGwkLCoGEIhMAAABWSURBVHicY2QAAkbGf0CCmfEPKyPjTw5GRi5GGBCGs2TgLAZVCH2VkUEHwjrHyMBgDGKcZACyLECsI0CWLUR2LyODC4S1jZHBG8JaD1THEMTIuIaBAQC2xAtophTscAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="trophy 9 2" href="#img1" x="2" y="1"/>
+</svg>
